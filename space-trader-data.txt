@@ -1,0 +1,1 @@
+//jet_x,fuel,credits,steps,cargo,area
